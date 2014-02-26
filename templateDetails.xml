@@ -12,7 +12,7 @@
 	<copyright>Copyright (C) 2014 Meridian Softech, Ltd. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<version>1.0.0</version>
-	<description>Responsive template built on Zurb Foundation's CSS grid framework (v5).</description>
+	<description>Responsive template built on Zurb's awesome Foundation CSS grid framework (v5).</description>
 	<files>
 		<folder>css</folder>
 		<folder>images</folder>
