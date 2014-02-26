@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
 <extension
 	version="2.5"
 	type="template"
 	client="site">
-	<name>atomic</name>
-	<creationDate>10/10/09</creationDate>
-	<author>Ron Severdia</author>
-	<authorEmail>contact@kontentdesign.com</authorEmail>
-	<authorUrl>http://www.kontentdesign.com</authorUrl>
-	<copyright>Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved.</copyright>
+	<name>adjustable</name>
+	<creationDate>2014-02-26</creationDate>
+	<author>Robin Hood</author>
+	<authorEmail>fordarnold@gmail.com</authorEmail>
+	<authorUrl>http://www.coderwall.com/fordarnold</authorUrl>
+	<copyright>Copyright (C) 2014 Meridian Softech, Ltd. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<version>2.5.0</version>
-	<description>TPL_ATOMIC_XML_DESCRIPTION</description>
+	<version>1.0.0</version>
+	<description>Responsive template built on Zurb Foundation's CSS grid framework (v5).</description>
 	<files>
 		<folder>css</folder>
 		<folder>images</folder>
@@ -24,19 +24,16 @@
 	</files>
 
 	<positions>
-		<position>atomic-bottomleft</position>
-		<position>atomic-bottommiddle</position>
-		<position>atomic-search</position>
-		<position>atomic-sidebar</position>
-		<position>atomic-topmenu</position>
-		<position>atomic-topquote</position>
+		<position>main-navigation</position>
+		<position>hero-panel</position>
+		<position>left-sidebar</position>
+		<position>right-sidebar</position>
+		<position>ads-panel</position>
+		<position>bottom-one</position>
+		<position>bottom-two</position>
+		<position>bottom-three</position>
+		<position>bottom-four</position>
+		<position>footer</position>
 	</positions>
-
-	<!-- 	For core templates, we also install/uninstall the language files in the core language folders.
-	-->
-	<languages folder="language">
-		<language tag="en-GB">en-GB/en-GB.tpl_atomic.ini</language>
-		<language tag="en-GB">en-GB/en-GB.tpl_atomic.sys.ini</language>
-	</languages>
 
 </extension>
