@@ -36,9 +36,11 @@
 
 		<grid class="row">
 			<grid class="small-12 large-12 columns">
+
 				<nav id="Menu">
-					
+					<jdoc:include type="modules" name="main-navigation" style="none">
 				</nav>
+
 			</grid>
 		</grid>
 
@@ -48,24 +50,27 @@
 
 		<grid class="row">
 			<grid class="small-12 large-12 columns">
+
 				<div id="HeroArea">
-					
+					<jdoc:include type="modules" name="hero-panel" style="none">
 				</div>
+
 			</grid>
 		</grid>
 
 		<grid class="row">
 			<grid class="small-12 large-3 columns">
 				<aside id="left">
-					
+					<jdoc:include type="modules" name="left-sidebar" style="xhtml">
 				</aside>
 			</grid>
 			<grid class="small-12 large-6 columns">
-				
+				<jdoc:include type="modules" name="component">
+				<jdoc:include type="modules" name="ads-panel" style="none">
 			</grid>
 			<grid class="small-12 large-3 columns">
 				<aside id="right">
-					
+					<jdoc:include type="modules" name="right-sidebar" style="xhtml">
 				</aside>
 			</grid>
 		</grid>
@@ -76,22 +81,22 @@
 
 		<grid class="row">
 			<grid class="small-12 large-3 columns">
-				
+				<jdoc:include type="modules" name="bottom-one" style="xhtml">
 			</grid>
 			<grid class="small-12 large-3 columns">
-				
+				<jdoc:include type="modules" name="bottom-two" style="xhtml">
 			</grid>
 			<grid class="small-12 large-3 columns">
-				
+				<jdoc:include type="modules" name="bottom-three" style="xhtml">
 			</grid>
 			<grid class="small-12 large-3 columns">
-				
+				<jdoc:include type="modules" name="bottom-four" style="xhtml">
 			</grid>
 		</grid>
 		
 		<grid class="row">
 			<grid class="small-12 large-12 columns">
-				
+				<jdoc:include type="modules" name="footer" style="none">
 			</grid>	
 		</grid>
 
@@ -102,19 +107,6 @@
 		</grid>
 
 	</footer>
-
-
-
-	<jdoc:include type="modules" name="main-navigation" style="none">
-	<jdoc:include type="modules" name="hero-panel" style="none">
-	<jdoc:include type="modules" name="left-sidebar" style="xhtml">
-	<jdoc:include type="modules" name="component">
-	<jdoc:include type="modules" name="ads-panel" style="none">
-	<jdoc:include type="modules" name="right-sidebar" style="xhtml">
-	<jdoc:include type="modules" name="bottom-one" style="xhtml">
-	<jdoc:include type="modules" name="bottom-two" style="xhtml">
-	<jdoc:include type="modules" name="bottom-three" style="xhtml">
-	<jdoc:include type="modules" name="bottom-four" style="xhtml">
-	<jdoc:include type="modules" name="footer" style="none">
+	
 </body>
 </html>
