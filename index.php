@@ -16,11 +16,95 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/foundation.min.css" />
 
-	<!-- Template CSS -->
+	<!-- Template-specific CSS -->
+	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/hacks.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/template.css" />
 
 </head>
 <body>
+
+	<header>
+
+		<grid class="row">
+			<grid class="small-12 large-6 columns">
+				<img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/images/adjustable-logo.png" alt="Adjustable - responsive joomla template">
+			</grid>
+			<grid class="small-12 large-6 columns">
+				<h1 id="title">Adjustable</h1>
+			</grid>
+		</grid>
+
+		<grid class="row">
+			<grid class="small-12 large-12 columns">
+				<nav id="Menu">
+					
+				</nav>
+			</grid>
+		</grid>
+
+	</header>
+
+	<section id="MainContentArea">
+
+		<grid class="row">
+			<grid class="small-12 large-12 columns">
+				<div id="HeroArea">
+					
+				</div>
+			</grid>
+		</grid>
+
+		<grid class="row">
+			<grid class="small-12 large-3 columns">
+				<aside id="left">
+					
+				</aside>
+			</grid>
+			<grid class="small-12 large-6 columns">
+				
+			</grid>
+			<grid class="small-12 large-3 columns">
+				<aside id="right">
+					
+				</aside>
+			</grid>
+		</grid>
+		
+	</section>
+
+	<footer>
+
+		<grid class="row">
+			<grid class="small-12 large-3 columns">
+				
+			</grid>
+			<grid class="small-12 large-3 columns">
+				
+			</grid>
+			<grid class="small-12 large-3 columns">
+				
+			</grid>
+			<grid class="small-12 large-3 columns">
+				
+			</grid>
+		</grid>
+		
+		<grid class="row">
+			<grid class="small-12 large-12 columns">
+				
+			</grid>	
+		</grid>
+
+		<grid class="row">
+			<grid class="small-12 large-12 columns">
+				<p>Copyright &copy; <?php echo date('Y'); ?> Meridian Softech. All rights reserved.</p>
+			</grid>	
+		</grid>
+
+	</footer>
+
+
+
 	<jdoc:include type="modules" name="main-navigation" style="none">
 	<jdoc:include type="modules" name="hero-panel" style="none">
 	<jdoc:include type="modules" name="left-sidebar" style="xhtml">
