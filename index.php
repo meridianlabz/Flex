@@ -1,4 +1,5 @@
 <?php defined('_JEXEC') or die('Restricted area - You are not allowed access'); ?>
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->language ?>" lang="<?php echo $this->language ?>">
 <head>
@@ -101,9 +102,14 @@
 		</grid>
 
 		<grid class="row">
-			<grid class="small-12 large-12 columns">
-				<p>Copyright &copy; <?php echo date('Y'); ?> Meridian Softech. All rights reserved.</p>
-			</grid>	
+			<grid class="small-12 large-6 columns">
+				<ul class="inline">
+					<li><a href="<?php echo $this->baseurl ?>">Home</a></li>
+				</ul>
+			</grid>
+			<grid class="small-12 large-6 columns">
+				<p>Copyright &copy; <?php echo date('Y'); ?> <a href="https://twitter.com/meridiansoftech">Meridian Softech</a>. All rights reserved.</p>
+			</grid>
 		</grid>
 
 	</footer>
