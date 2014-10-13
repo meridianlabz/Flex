@@ -1,8 +1,8 @@
-# Simple Responsive Template for Joomla
+# Responsive Template for Joomla
 The files in this repository make up a responsive Joomla template built from scratch. It serves as a starting point for designing your very own Joomla (version 3.0+) template that will adjust to both large and small screens.
 
 ## Tutorial
-I authored a comprehensive tutorial that will guide you in building a responsive Joomla template from the ground up.   
+Check out the comprehensive tutorial about building a responsive Joomla template from the ground up.   
 *[How to design a responsive template for Joomla 3.0 using Foundation.]()*
 
 #### Like the tutorial?
