@@ -1,2 +1,10 @@
-/* Hack for <grid> html element */
-grid{display: block;}
+/**
+ * hacks.css abstracts the CSS hacks used in the project. 
+ *
+ * @author Robin Hood
+ * @license MIT License
+ *
+ */
+
+/* Activating <grid> html element */
+grid {display: block;}

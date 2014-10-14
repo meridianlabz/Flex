@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
-<extension
-	version="2.5"
-	type="template"
-	client="site">
-	<name>adjustable</name>
-	<creationDate>2014-02-26</creationDate>
+<extension version="2.5" type="template" client="site">
+	<name>responsivetemplate</name>
+	<creationDate>2014-10-14</creationDate>
 	<author>Robin Hood</author>
-	<authorEmail>fordarnold@gmail.com</authorEmail>
+	<authorEmail>meridiansoftech@gmail.com</authorEmail>
 	<authorUrl>http://www.coderwall.com/fordarnold</authorUrl>
-	<copyright>Copyright (C) 2014 Meridian Softech, Ltd. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2014 Meridian Softech LLC. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<version>1.0.0</version>
-	<description>Responsive template built on Zurb's awesome Foundation CSS grid framework (v5).</description>
+	<description>Responsive Joomla! template, built with Zurb's awesome Foundation UI framework (v5).</description>
 	<files>
 		<folder>css</folder>
 		<folder>images</folder>
@@ -22,7 +19,6 @@
 		<filename>favicon.ico</filename>
 		<filename>templateDetails.xml</filename>
 	</files>
-
 	<positions>
 		<position>main-navigation</position>
 		<position>hero-panel</position>
@@ -35,5 +31,4 @@
 		<position>bottom-four</position>
 		<position>footer</position>
 	</positions>
-
 </extension>
