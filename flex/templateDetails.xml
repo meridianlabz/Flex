@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="template" client="site">
-	<name>responsivetemplate</name>
+	<name>flex</name>
 	<creationDate>2014-10-14</creationDate>
 	<author>Robin Hood</author>
 	<authorEmail>meridiansoftech@gmail.com</authorEmail>
 	<authorUrl>http://www.coderwall.com/fordarnold</authorUrl>
 	<copyright>Copyright (C) 2014 Meridian Softech LLC. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<license>GNU General Public License version 2 or later</license>
 	<version>1.0.0</version>
-	<description>Responsive Joomla! template, built with Zurb's awesome Foundation UI framework (v5).</description>
+	<description>Responsive Joomla! 3+ template, built with Zurb's awesome Foundation UI framework.</description>
 	<files>
 		<folder>css</folder>
 		<folder>images</folder>
