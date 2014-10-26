@@ -5,13 +5,22 @@ Websites today are viewed using a various number of different types of digital d
 
 **Flex** is a responsive Joomla template built from scratch. You can use it as a starting point for designing your very own Joomla (version 3.0+) template that will adjust automatically to both large and small screens.
 
+## How To Use
+To use the Flex template in your joomla site, simply do the following:
+
+- Clone this repository 
+- Go to your joomla administrator backend (http://yourwebsite.com/administrator)
+- Browse to the extensions install section
+- Install "flex.zip" ...found inside your cloned Flex repository
+- Set "flex" as your default template
+
 ## Tutorial
-Check out the tutorial about building a responsive Joomla template from the ground up. Link coming soon...   
+Hey guess what... There's a comprehensive tutorial about building a responsive Joomla template from the ground up. Link coming soon...   
 *[How to design a responsive template for Joomla using Foundation.]()*
 
 #### Hope you like the tutorial
 If you found this tutorial useful, you can...  
-Send me some **Bitcoin** at address: *** 1BPNChzpms5BmcKp169Rs8P2Q8QEeDzRY6 ***
+Send me some **Bitcoin** at address: **1BPNChzpms5BmcKp169Rs8P2Q8QEeDzRY6**
 
 ---
 
