@@ -15,11 +15,14 @@
 
 	<!-- Foundation CSS (for Responsiveness) -->
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/foundation.min.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/foundation.css" />
 
 	<!-- Template-specific CSS -->
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/hacks.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/template.css" />
+
+	<!-- Favicon -->
+    <link rel="icon" type="image/ico" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/favicon.ico" ?>">
 
 </head>
 <body>
