@@ -15,8 +15,7 @@ To use the Flex template in your joomla site, simply do the following:
 - Set "flex" as your default template
 
 ## Tutorial
-Hey guess what... There's a comprehensive tutorial about building a responsive Joomla template from the ground up. Link coming soon...   
-*[How to design a responsive template for Joomla using Foundation.]()*
+Hey guess what... There's a comprehensive tutorial about building a responsive Joomla template from the ground up. [Get it here.]()
 
 #### Hope you like the tutorial
 If you found this tutorial useful, you can...  
