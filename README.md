@@ -20,12 +20,10 @@ When you refresh the home page of the Joomla site, you will be able to see the F
 
 ## Tutorial
 Hey guess what...  
-There's a comprehensive tutorial about building a responsive Joomla template from the ground up. [Get it here.](http://smashingmagazine.com/joomla-flex)
+There's a comprehensive tutorial about building a responsive Joomla template from scratch. [See it here.](http://smashingmagazine.com/joomla-flex)
 
 ### Like the tutorial?
-It is my sincere wish that you find this tutorial useful. If you want to appreciate the knowledge you've gained from the tutorial, you can: Send me some **Bitcoin** at my address
-
-`1BPNChzpms5BmcKp169Rs8P2Q8QEeDzRY6`.
+It is my sincere wish that you find this tutorial useful. If you appreciate the skills you've gained from the tutorial, you can send me some **Bitcoin** at my address: `1BPNChzpms5BmcKp169Rs8P2Q8QEeDzRY6`.
 
 ---
 
